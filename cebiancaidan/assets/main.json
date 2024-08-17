@@ -1,0 +1,1914 @@
+[
+    {
+        "uuid": "m8iffh-lvt9gm-fzalnk-2shwxo",
+        "id": 145,
+        "origin": "侧边菜单",
+        "output": "artboard-m8iffh-lvt9gm-fzalnk-2shwxo.png",
+        "detail": "detail-m8iffh-lvt9gm-fzalnk-2shwxo.json",
+        "platform": "android",
+        "baseDpi": 3,
+        "assets": {
+            
+        },
+        "bounds": {
+            "x": 0,
+            "y": 0,
+            "width": 1080,
+            "height": 1920
+        },
+        "resolution": 72,
+        "layers": [
+            {
+                "id": 0,
+                "index": 0,
+                "name": "侧边菜单",
+                "type": "shapeLayer",
+                "x": 0,
+                "y": 0,
+                "width": 1080,
+                "height": 1920
+            },
+            {
+                "id": 173,
+                "index": 71,
+                "name": "椭圆2",
+                "type": "shapeLayer",
+                "x": 865,
+                "y": 521.312,
+                "width": 60,
+                "height": 60,
+                "solidfill": {
+                    "solid": {
+                        "color": "#FFFFFF",
+                        "opacity": 100,
+                        "type": "solidfill"
+                    }
+                },
+                "gradientoverlay": {
+                    "gradient": {
+                        "color": [
+                            {
+                                "color": "#28313A",
+                                "opacity": 100
+                            },
+                            {
+                                "color": "#B4B5B7",
+                                "opacity": 100
+                            },
+                            {
+                                "color": "#DDDEE1",
+                                "opacity": 100
+                            }
+                        ],
+                        "type": "linear",
+                        "angel": 90
+                    }
+                }
+            },
+            {
+                "id": 172,
+                "index": 70,
+                "name": "矩形4拷贝3",
+                "type": "shapeLayer",
+                "x": 776.125,
+                "y": 520,
+                "width": 148,
+                "height": 64,
+                "solidfill": {
+                    "solid": {
+                        "color": "#3DC922",
+                        "opacity": 100,
+                        "type": "solidfill"
+                    }
+                },
+                "radius": [
+                    30,
+                    30,
+                    30,
+                    30
+                ]
+            },
+            {
+                "id": 171,
+                "index": 69,
+                "name": "矩形4拷贝2",
+                "type": "shapeLayer",
+                "x": 772,
+                "y": 516,
+                "width": 157,
+                "height": 72,
+                "solidfill": {
+                    "solid": {
+                        "color": "#141519",
+                        "opacity": 100,
+                        "type": "solidfill"
+                    }
+                },
+                "stroke": {
+                    "width": 2,
+                    "color": "#474B56",
+                    "opacity": 100,
+                    "alignment": "strokeStyleAlignOutside"
+                },
+                "radius": [
+                    36,
+                    36,
+                    36,
+                    36
+                ]
+            },
+            {
+                "id": 179,
+                "index": 66,
+                "name": "隐私",
+                "type": "layer",
+                "x": 55,
+                "y": 840,
+                "width": 40,
+                "height": 48,
+                "gradientoverlay": {
+                    "gradient": {
+                        "color": [
+                            {
+                                "color": "#28313A",
+                                "opacity": 100
+                            },
+                            {
+                                "color": "#B4B5B7",
+                                "opacity": 100
+                            },
+                            {
+                                "color": "#DDDEE1",
+                                "opacity": 100
+                            }
+                        ],
+                        "type": "linear",
+                        "angel": 90
+                    }
+                }
+            },
+            {
+                "id": 178,
+                "index": 65,
+                "name": "分享",
+                "type": "layer",
+                "x": 52,
+                "y": 748,
+                "width": 46,
+                "height": 44,
+                "gradientoverlay": {
+                    "gradient": {
+                        "color": [
+                            {
+                                "color": "#28313A",
+                                "opacity": 100
+                            },
+                            {
+                                "color": "#B4B5B7",
+                                "opacity": 100
+                            },
+                            {
+                                "color": "#DDDEE1",
+                                "opacity": 100
+                            }
+                        ],
+                        "type": "linear",
+                        "angel": 90
+                    }
+                }
+            },
+            {
+                "id": 177,
+                "index": 64,
+                "name": "反馈",
+                "type": "layer",
+                "x": 53,
+                "y": 649,
+                "width": 44,
+                "height": 44,
+                "gradientoverlay": {
+                    "gradient": {
+                        "color": [
+                            {
+                                "color": "#28313A",
+                                "opacity": 100
+                            },
+                            {
+                                "color": "#B4B5B7",
+                                "opacity": 100
+                            },
+                            {
+                                "color": "#DDDEE1",
+                                "opacity": 100
+                            }
+                        ],
+                        "type": "linear",
+                        "angel": 90
+                    }
+                }
+            },
+            {
+                "id": 176,
+                "index": 63,
+                "name": "震动",
+                "type": "layer",
+                "x": 50,
+                "y": 528,
+                "width": 49,
+                "height": 49,
+                "gradientoverlay": {
+                    "gradient": {
+                        "color": [
+                            {
+                                "color": "#28313A",
+                                "opacity": 100
+                            },
+                            {
+                                "color": "#B4B5B7",
+                                "opacity": 100
+                            },
+                            {
+                                "color": "#DDDEE1",
+                                "opacity": 100
+                            }
+                        ],
+                        "type": "linear",
+                        "angel": 90
+                    }
+                }
+            },
+            {
+                "id": 169,
+                "index": 62,
+                "name": "隐私政策",
+                "type": "textLayer",
+                "x": 112,
+                "y": 843,
+                "width": 164,
+                "height": 40,
+                "gradientoverlay": {
+                    "gradient": {
+                        "color": [
+                            {
+                                "color": "#28313A",
+                                "opacity": 100
+                            },
+                            {
+                                "color": "#B4B5B7",
+                                "opacity": 100
+                            },
+                            {
+                                "color": "#DDDEE1",
+                                "opacity": 100
+                            }
+                        ],
+                        "type": "linear",
+                        "angel": 90
+                    }
+                },
+                "textInfo": {
+                    "content": "隐私政策",
+                    "orientation": "horizontal",
+                    "bounds": {
+                        "x": 0,
+                        "y": -36.960205078125,
+                        "width": 168,
+                        "height": 81.0603332519531
+                    },
+                    "fontPostScriptName": "SourceHanSansCNVF-Regular",
+                    "fontName": "Source Han Sans CN VF",
+                    "fontSize": 42,
+                    "bold": false,
+                    "italic": false,
+                    "color": "#FFFFFF"
+                }
+            },
+            {
+                "id": 168,
+                "index": 61,
+                "name": "分享",
+                "type": "textLayer",
+                "x": 110,
+                "y": 751,
+                "width": 81,
+                "height": 40,
+                "gradientoverlay": {
+                    "gradient": {
+                        "color": [
+                            {
+                                "color": "#28313A",
+                                "opacity": 100
+                            },
+                            {
+                                "color": "#B4B5B7",
+                                "opacity": 100
+                            },
+                            {
+                                "color": "#DDDEE1",
+                                "opacity": 100
+                            }
+                        ],
+                        "type": "linear",
+                        "angel": 90
+                    }
+                },
+                "textInfo": {
+                    "content": "分享",
+                    "orientation": "horizontal",
+                    "bounds": {
+                        "x": 0,
+                        "y": -36.960205078125,
+                        "width": 84,
+                        "height": 81.0603332519531
+                    },
+                    "fontPostScriptName": "SourceHanSansCNVF-Regular",
+                    "fontName": "Source Han Sans CN VF",
+                    "fontSize": 42,
+                    "bold": false,
+                    "italic": false,
+                    "color": "#FFFFFF"
+                }
+            },
+            {
+                "id": 167,
+                "index": 60,
+                "name": "反馈",
+                "type": "textLayer",
+                "x": 111,
+                "y": 650,
+                "width": 81,
+                "height": 40,
+                "gradientoverlay": {
+                    "gradient": {
+                        "color": [
+                            {
+                                "color": "#28313A",
+                                "opacity": 100
+                            },
+                            {
+                                "color": "#B4B5B7",
+                                "opacity": 100
+                            },
+                            {
+                                "color": "#DDDEE1",
+                                "opacity": 100
+                            }
+                        ],
+                        "type": "linear",
+                        "angel": 90
+                    }
+                },
+                "textInfo": {
+                    "content": "反馈",
+                    "orientation": "horizontal",
+                    "bounds": {
+                        "x": 0,
+                        "y": -36.960205078125,
+                        "width": 84,
+                        "height": 81.0603332519531
+                    },
+                    "fontPostScriptName": "SourceHanSansCNVF-Regular",
+                    "fontName": "Source Han Sans CN VF",
+                    "fontSize": 42,
+                    "bold": false,
+                    "italic": false,
+                    "color": "#FFFFFF"
+                }
+            },
+            {
+                "id": 166,
+                "index": 59,
+                "name": "震动设定",
+                "type": "textLayer",
+                "x": 110,
+                "y": 532,
+                "width": 166,
+                "height": 40,
+                "gradientoverlay": {
+                    "gradient": {
+                        "color": [
+                            {
+                                "color": "#28313A",
+                                "opacity": 100
+                            },
+                            {
+                                "color": "#B4B5B7",
+                                "opacity": 100
+                            },
+                            {
+                                "color": "#DDDEE1",
+                                "opacity": 100
+                            }
+                        ],
+                        "type": "linear",
+                        "angel": 90
+                    }
+                },
+                "textInfo": {
+                    "content": "震动设定",
+                    "orientation": "horizontal",
+                    "bounds": {
+                        "x": 0,
+                        "y": -36.960205078125,
+                        "width": 168,
+                        "height": 81.0603332519531
+                    },
+                    "fontPostScriptName": "SourceHanSansCNVF-Regular",
+                    "fontName": "Source Han Sans CN VF",
+                    "fontSize": 42,
+                    "bold": false,
+                    "italic": false,
+                    "color": "#FFFFFF"
+                }
+            },
+            {
+                "id": 182,
+                "index": 57,
+                "name": "图层9",
+                "type": "layer",
+                "x": 45,
+                "y": 122,
+                "width": 900,
+                "height": 505
+            },
+            {
+                "id": 165,
+                "index": 56,
+                "name": "矩形5",
+                "type": "shapeLayer",
+                "x": 50,
+                "y": 175,
+                "width": 880,
+                "height": 300,
+                "solidfill": {
+                    "solid": {
+                        "color": "#FFFFFF",
+                        "opacity": 100,
+                        "type": "solidfill"
+                    }
+                },
+                "radius": [
+                    10,
+                    10,
+                    10,
+                    10
+                ]
+            },
+            {
+                "id": 163,
+                "index": 55,
+                "name": "矩形1拷贝7",
+                "type": "shapeLayer",
+                "x": 0,
+                "y": 124,
+                "width": 980,
+                "height": 1796,
+                "solidfill": {
+                    "solid": {
+                        "color": "#22262F",
+                        "opacity": 100,
+                        "type": "solidfill"
+                    }
+                },
+                "gradientoverlay": {
+                    "gradient": {
+                        "color": [
+                            {
+                                "color": "#28313A",
+                                "opacity": 100
+                            }
+                        ],
+                        "type": "linear",
+                        "angel": 144
+                    }
+                },
+                "radius": [
+                    40,
+                    40,
+                    0,
+                    0
+                ],
+                "dropShadow": {
+                    "horizon": 4,
+                    "vertical": 0,
+                    "spread": 0,
+                    "blur": 27,
+                    "color": "#0A0C10",
+                    "distance": 4,
+                    "angle": -180,
+                    "opacity": 100
+                }
+            },
+            {
+                "id": 164,
+                "index": 54,
+                "name": "图层8",
+                "type": "layer",
+                "x": 0,
+                "y": 0,
+                "width": 1080,
+                "height": 1920,
+                "opacity": 50
+            },
+            {
+                "id": 81,
+                "index": 52,
+                "name": "图层4",
+                "type": "layer",
+                "x": 641,
+                "y": 304,
+                "width": 244,
+                "height": 492,
+                "dropShadow": {
+                    "horizon": 3,
+                    "vertical": 3,
+                    "spread": 0,
+                    "blur": 16,
+                    "color": "#0A0C10",
+                    "distance": 4,
+                    "angle": 129,
+                    "opacity": 71
+                }
+            },
+            {
+                "id": 72,
+                "index": 51,
+                "name": "播放",
+                "type": "layer",
+                "x": 835,
+                "y": 1720,
+                "width": 72,
+                "height": 72,
+                "gradientoverlay": {
+                    "gradient": {
+                        "color": [
+                            {
+                                "color": "#B81DC1",
+                                "opacity": 100
+                            },
+                            {
+                                "color": "#FC3B40",
+                                "opacity": 100
+                            }
+                        ],
+                        "type": "linear",
+                        "angel": 180
+                    }
+                }
+            },
+            {
+                "id": 71,
+                "index": 50,
+                "name": "下一首拷贝",
+                "type": "layer",
+                "x": 747,
+                "y": 1736,
+                "width": 46,
+                "height": 40,
+                "gradientoverlay": {
+                    "gradient": {
+                        "color": [
+                            {
+                                "color": "#B81DC1",
+                                "opacity": 100
+                            },
+                            {
+                                "color": "#FC3B40",
+                                "opacity": 100
+                            }
+                        ],
+                        "type": "linear",
+                        "angel": 180
+                    }
+                }
+            },
+            {
+                "id": 70,
+                "index": 49,
+                "name": "下一首",
+                "type": "layer",
+                "x": 945,
+                "y": 1736,
+                "width": 46,
+                "height": 41,
+                "gradientoverlay": {
+                    "gradient": {
+                        "color": [
+                            {
+                                "color": "#B81DC1",
+                                "opacity": 100
+                            },
+                            {
+                                "color": "#FC3B40",
+                                "opacity": 100
+                            }
+                        ],
+                        "type": "linear",
+                        "angel": 0
+                    }
+                }
+            },
+            {
+                "id": 19,
+                "index": 48,
+                "name": "VolumeBoost",
+                "type": "textLayer",
+                "x": 345,
+                "y": 914,
+                "width": 389,
+                "height": 49,
+                "textInfo": {
+                    "content": "Volume Boost",
+                    "orientation": "horizontal",
+                    "bounds": {
+                        "x": 0,
+                        "y": -52.80029296875,
+                        "width": 389.399993896484,
+                        "height": 115.800476074219
+                    },
+                    "fontPostScriptName": "SourceHanSansCNVF-Regular",
+                    "fontName": "Source Han Sans CN VF",
+                    "fontSize": 60,
+                    "bold": false,
+                    "italic": false,
+                    "color": "#FFFFFF"
+                }
+            },
+            {
+                "id": 75,
+                "index": 46,
+                "name": "椭圆1拷贝5",
+                "type": "shapeLayer",
+                "x": 529.844,
+                "y": 591.844,
+                "width": 20,
+                "height": 20,
+                "solidfill": {
+                    "solid": {
+                        "color": "#FFFFFF",
+                        "opacity": 100,
+                        "type": "solidfill"
+                    }
+                },
+                "gradientoverlay": {
+                    "gradient": {
+                        "color": [
+                            {
+                                "color": "#A0A5B5",
+                                "opacity": 100
+                            }
+                        ],
+                        "type": "angle",
+                        "angel": 90
+                    }
+                },
+                "dropShadow": {
+                    "horizon": 0,
+                    "vertical": 0,
+                    "spread": 0,
+                    "blur": 18,
+                    "color": "#F93C48",
+                    "distance": 0,
+                    "angle": 90,
+                    "opacity": 65
+                }
+            },
+            {
+                "id": 74,
+                "index": 45,
+                "name": "椭圆1拷贝4",
+                "type": "shapeLayer",
+                "x": 524.844,
+                "y": 586.844,
+                "width": 30,
+                "height": 30,
+                "solidfill": {
+                    "solid": {
+                        "color": "#22262F",
+                        "opacity": 100,
+                        "type": "solidfill"
+                    }
+                }
+            },
+            {
+                "id": 27,
+                "index": 44,
+                "name": "椭圆1拷贝3",
+                "type": "shapeLayer",
+                "x": 434.844,
+                "y": 496.844,
+                "width": 210.031,
+                "height": 210.031,
+                "solidfill": {
+                    "solid": {
+                        "color": "#B81DC1",
+                        "opacity": 100,
+                        "type": "solidfill"
+                    }
+                },
+                "gradientoverlay": {
+                    "gradient": {
+                        "color": [
+                            {
+                                "color": "#B81DC1",
+                                "opacity": 100
+                            },
+                            {
+                                "color": "#FC3B40",
+                                "opacity": 100
+                            },
+                            {
+                                "color": "#B81DC1",
+                                "opacity": 100
+                            },
+                            {
+                                "color": "#92119A",
+                                "opacity": 100
+                            },
+                            {
+                                "color": "#B81DC1",
+                                "opacity": 100
+                            },
+                            {
+                                "color": "#FC3B40",
+                                "opacity": 100
+                            },
+                            {
+                                "color": "#B81DC1",
+                                "opacity": 100
+                            },
+                            {
+                                "color": "#92119A",
+                                "opacity": 100
+                            },
+                            {
+                                "color": "#B81DC1",
+                                "opacity": 100
+                            }
+                        ],
+                        "type": "angle",
+                        "angel": -92
+                    }
+                }
+            },
+            {
+                "id": 26,
+                "index": 43,
+                "name": "椭圆1拷贝2",
+                "type": "shapeLayer",
+                "x": 378.906,
+                "y": 440.906,
+                "width": 321.906,
+                "height": 321.906,
+                "solidfill": {
+                    "solid": {
+                        "color": "#1C1F27",
+                        "opacity": 100,
+                        "type": "solidfill"
+                    }
+                },
+                "gradientoverlay": {
+                    "gradient": {
+                        "color": [
+                            {
+                                "color": "#292C35",
+                                "opacity": 100
+                            }
+                        ],
+                        "type": "reflected",
+                        "angel": 144
+                    }
+                },
+                "stroke": {
+                    "color": "#FFFFFF",
+                    "opacity": 15,
+                    "alignment": "strokeStyleAlignOutside"
+                }
+            },
+            {
+                "id": 15,
+                "index": 42,
+                "name": "椭圆1拷贝",
+                "type": "shapeLayer",
+                "x": 270,
+                "y": 332,
+                "width": 539.719,
+                "height": 539.719,
+                "solidfill": {
+                    "solid": {
+                        "color": "#22262F",
+                        "opacity": 100,
+                        "type": "solidfill"
+                    }
+                },
+                "gradientoverlay": {
+                    "gradient": {
+                        "color": [
+                            {
+                                "color": "#28313A",
+                                "opacity": 100
+                            }
+                        ],
+                        "type": "reflected",
+                        "angel": 144
+                    }
+                }
+            },
+            {
+                "id": 14,
+                "index": 39,
+                "name": "矩形1拷贝2",
+                "type": "shapeLayer",
+                "x": 74,
+                "y": 187,
+                "width": 54,
+                "height": 48,
+                "solidfill": {
+                    "solid": {
+                        "color": "#FFFFFF",
+                        "opacity": 100,
+                        "type": "solidfill"
+                    }
+                },
+                "gradientoverlay": {
+                    "gradient": {
+                        "color": [
+                            {
+                                "color": "#28313A",
+                                "opacity": 100
+                            },
+                            {
+                                "color": "#B4B5B7",
+                                "opacity": 100
+                            },
+                            {
+                                "color": "#DDDEE1",
+                                "opacity": 100
+                            }
+                        ],
+                        "type": "linear",
+                        "angel": 90
+                    }
+                },
+                "radius": [
+                    3,
+                    3,
+                    3,
+                    3
+                ]
+            },
+            {
+                "id": 9,
+                "index": 38,
+                "name": "椭圆1",
+                "type": "shapeLayer",
+                "x": 50,
+                "y": 160,
+                "width": 100,
+                "height": 100,
+                "solidfill": {
+                    "solid": {
+                        "color": "#22262F",
+                        "opacity": 100,
+                        "type": "solidfill"
+                    }
+                },
+                "gradientoverlay": {
+                    "gradient": {
+                        "color": [
+                            {
+                                "color": "#28313A",
+                                "opacity": 100
+                            }
+                        ],
+                        "type": "linear",
+                        "angel": 144
+                    }
+                }
+            },
+            {
+                "id": 8,
+                "index": 37,
+                "name": "equalizer",
+                "type": "textLayer",
+                "x": 590,
+                "y": 189,
+                "width": 180,
+                "height": 44,
+                "textInfo": {
+                    "content": "equalizer",
+                    "orientation": "horizontal",
+                    "bounds": {
+                        "x": 0,
+                        "y": -36.960205078125,
+                        "width": 181.531661987305,
+                        "height": 81.0603332519531
+                    },
+                    "fontPostScriptName": "SourceHanSansCNVF-Regular",
+                    "fontName": "Source Han Sans CN VF",
+                    "fontSize": 42,
+                    "bold": false,
+                    "italic": false,
+                    "color": "#FFFFFF"
+                }
+            },
+            {
+                "id": 103,
+                "index": 36,
+                "name": "矩形3",
+                "type": "shapeLayer",
+                "x": 341,
+                "y": 237,
+                "width": 143,
+                "height": 5,
+                "solidfill": {
+                    "solid": {
+                        "color": "#NANNANNAN",
+                        "opacity": 100,
+                        "type": "solidfill"
+                    }
+                },
+                "gradientoverlay": {
+                    "gradient": {
+                        "color": [
+                            {
+                                "color": "#B81DC1",
+                                "opacity": 100
+                            },
+                            {
+                                "color": "#FC3B40",
+                                "opacity": 100
+                            }
+                        ],
+                        "type": "linear",
+                        "angel": 0
+                    }
+                },
+                "radius": [
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            {
+                "id": 7,
+                "index": 35,
+                "name": "volume",
+                "type": "textLayer",
+                "x": 340,
+                "y": 189,
+                "width": 145,
+                "height": 35,
+                "gradientoverlay": {
+                    "gradient": {
+                        "color": [
+                            {
+                                "color": "#B81DC1",
+                                "opacity": 100
+                            },
+                            {
+                                "color": "#FC3B40",
+                                "opacity": 100
+                            }
+                        ],
+                        "type": "linear",
+                        "angel": 0
+                    }
+                },
+                "textInfo": {
+                    "content": "volume",
+                    "orientation": "horizontal",
+                    "bounds": {
+                        "x": 0,
+                        "y": -36.960205078125,
+                        "width": 146.916000366211,
+                        "height": 81.0603332519531
+                    },
+                    "fontPostScriptName": "SourceHanSansCNVF-Regular",
+                    "fontName": "Source Han Sans CN VF",
+                    "fontSize": 42,
+                    "bold": false,
+                    "italic": false,
+                    "color": "#FFFFFF"
+                }
+            },
+            {
+                "id": 30,
+                "index": 32,
+                "name": "音量",
+                "type": "layer",
+                "x": 56,
+                "y": 1028,
+                "width": 56,
+                "height": 54,
+                "gradientoverlay": {
+                    "gradient": {
+                        "color": [
+                            {
+                                "color": "#28313A",
+                                "opacity": 100
+                            },
+                            {
+                                "color": "#B4B5B7",
+                                "opacity": 100
+                            },
+                            {
+                                "color": "#DDDEE1",
+                                "opacity": 100
+                            }
+                        ],
+                        "type": "linear",
+                        "angel": 90
+                    }
+                }
+            },
+            {
+                "id": 32,
+                "index": 31,
+                "name": "椭圆2",
+                "type": "shapeLayer",
+                "x": 611,
+                "y": 1035,
+                "width": 48,
+                "height": 48,
+                "solidfill": {
+                    "solid": {
+                        "color": "#FFFFFF",
+                        "opacity": 100,
+                        "type": "solidfill"
+                    }
+                },
+                "gradientoverlay": {
+                    "gradient": {
+                        "color": [
+                            {
+                                "color": "#A0A5B5",
+                                "opacity": 100
+                            }
+                        ],
+                        "type": "angle",
+                        "angel": 90
+                    }
+                },
+                "dropShadow": {
+                    "horizon": 0,
+                    "vertical": 0,
+                    "spread": 0,
+                    "blur": 18,
+                    "color": "#F93C48",
+                    "distance": 0,
+                    "angle": 90,
+                    "opacity": 65
+                }
+            },
+            {
+                "id": 31,
+                "index": 30,
+                "name": "矩形2拷贝",
+                "type": "shapeLayer",
+                "x": 132,
+                "y": 1049,
+                "width": 500,
+                "height": 18,
+                "solidfill": {
+                    "solid": {
+                        "color": "#1C1F27",
+                        "opacity": 100,
+                        "type": "solidfill"
+                    }
+                },
+                "gradientoverlay": {
+                    "gradient": {
+                        "color": [
+                            {
+                                "color": "#B81DC1",
+                                "opacity": 100
+                            },
+                            {
+                                "color": "#FC3B40",
+                                "opacity": 100
+                            }
+                        ],
+                        "type": "linear",
+                        "angel": 0
+                    }
+                },
+                "radius": [
+                    9,
+                    9,
+                    9,
+                    9
+                ]
+            },
+            {
+                "id": 29,
+                "index": 29,
+                "name": "矩形2",
+                "type": "shapeLayer",
+                "x": 128,
+                "y": 1046,
+                "width": 900,
+                "height": 24,
+                "solidfill": {
+                    "solid": {
+                        "color": "#1C1F27",
+                        "opacity": 100,
+                        "type": "solidfill"
+                    }
+                },
+                "radius": [
+                    10,
+                    10,
+                    10,
+                    10
+                ]
+            },
+            {
+                "id": 63,
+                "index": 26,
+                "name": "MAX",
+                "type": "textLayer",
+                "x": 884,
+                "y": 1481,
+                "width": 91,
+                "height": 37,
+                "gradientoverlay": {
+                    "gradient": {
+                        "color": [
+                            {
+                                "color": "#B81DC1",
+                                "opacity": 100
+                            },
+                            {
+                                "color": "#FC3B40",
+                                "opacity": 100
+                            }
+                        ],
+                        "type": "linear",
+                        "angel": 0
+                    }
+                },
+                "textInfo": {
+                    "content": "MAX",
+                    "orientation": "horizontal",
+                    "bounds": {
+                        "x": 0,
+                        "y": -42.240234375,
+                        "width": 95.6640014648438,
+                        "height": 92.640380859375
+                    },
+                    "fontPostScriptName": "SourceHanSansCNVF-Regular",
+                    "fontName": "Source Han Sans CN VF",
+                    "fontSize": 48,
+                    "bold": false,
+                    "italic": false,
+                    "color": "#FFFFFF"
+                }
+            },
+            {
+                "id": 62,
+                "index": 25,
+                "name": "175%",
+                "type": "textLayer",
+                "x": 611,
+                "y": 1481,
+                "width": 119,
+                "height": 37,
+                "gradientoverlay": {
+                    "gradient": {
+                        "color": [
+                            {
+                                "color": "#28313A",
+                                "opacity": 100
+                            },
+                            {
+                                "color": "#B4B5B7",
+                                "opacity": 100
+                            },
+                            {
+                                "color": "#DDDEE1",
+                                "opacity": 100
+                            }
+                        ],
+                        "type": "linear",
+                        "angel": 90
+                    }
+                },
+                "textInfo": {
+                    "content": "175%",
+                    "orientation": "horizontal",
+                    "bounds": {
+                        "x": 0,
+                        "y": -42.240234375,
+                        "width": 124.127998352051,
+                        "height": 92.640380859375
+                    },
+                    "fontPostScriptName": "SourceHanSansCNVF-Regular",
+                    "fontName": "Source Han Sans CN VF",
+                    "fontSize": 48,
+                    "bold": false,
+                    "italic": false,
+                    "color": "#FFFFFF"
+                }
+            },
+            {
+                "id": 61,
+                "index": 24,
+                "name": "150%",
+                "type": "textLayer",
+                "x": 351,
+                "y": 1481,
+                "width": 119,
+                "height": 37,
+                "gradientoverlay": {
+                    "gradient": {
+                        "color": [
+                            {
+                                "color": "#28313A",
+                                "opacity": 100
+                            },
+                            {
+                                "color": "#B4B5B7",
+                                "opacity": 100
+                            },
+                            {
+                                "color": "#DDDEE1",
+                                "opacity": 100
+                            }
+                        ],
+                        "type": "linear",
+                        "angel": 90
+                    }
+                },
+                "textInfo": {
+                    "content": "150%",
+                    "orientation": "horizontal",
+                    "bounds": {
+                        "x": 0,
+                        "y": -42.240234375,
+                        "width": 124.127998352051,
+                        "height": 92.640380859375
+                    },
+                    "fontPostScriptName": "SourceHanSansCNVF-Regular",
+                    "fontName": "Source Han Sans CN VF",
+                    "fontSize": 48,
+                    "bold": false,
+                    "italic": false,
+                    "color": "#FFFFFF"
+                }
+            },
+            {
+                "id": 60,
+                "index": 23,
+                "name": "125%",
+                "type": "textLayer",
+                "x": 91,
+                "y": 1481,
+                "width": 119,
+                "height": 37,
+                "gradientoverlay": {
+                    "gradient": {
+                        "color": [
+                            {
+                                "color": "#28313A",
+                                "opacity": 100
+                            },
+                            {
+                                "color": "#B4B5B7",
+                                "opacity": 100
+                            },
+                            {
+                                "color": "#DDDEE1",
+                                "opacity": 100
+                            }
+                        ],
+                        "type": "linear",
+                        "angel": 90
+                    }
+                },
+                "textInfo": {
+                    "content": "125%",
+                    "orientation": "horizontal",
+                    "bounds": {
+                        "x": 0,
+                        "y": -42.240234375,
+                        "width": 124.127998352051,
+                        "height": 92.640380859375
+                    },
+                    "fontPostScriptName": "SourceHanSansCNVF-Regular",
+                    "fontName": "Source Han Sans CN VF",
+                    "fontSize": 48,
+                    "bold": false,
+                    "italic": false,
+                    "color": "#FFFFFF"
+                }
+            },
+            {
+                "id": 53,
+                "index": 22,
+                "name": "100%",
+                "type": "textLayer",
+                "x": 871,
+                "y": 1224,
+                "width": 119,
+                "height": 37,
+                "gradientoverlay": {
+                    "gradient": {
+                        "color": [
+                            {
+                                "color": "#28313A",
+                                "opacity": 100
+                            },
+                            {
+                                "color": "#B4B5B7",
+                                "opacity": 100
+                            },
+                            {
+                                "color": "#DDDEE1",
+                                "opacity": 100
+                            }
+                        ],
+                        "type": "linear",
+                        "angel": 90
+                    }
+                },
+                "textInfo": {
+                    "content": "100%",
+                    "orientation": "horizontal",
+                    "bounds": {
+                        "x": 0,
+                        "y": -42.240234375,
+                        "width": 124.127998352051,
+                        "height": 92.640380859375
+                    },
+                    "fontPostScriptName": "SourceHanSansCNVF-Regular",
+                    "fontName": "Source Han Sans CN VF",
+                    "fontSize": 48,
+                    "bold": false,
+                    "italic": false,
+                    "color": "#FFFFFF"
+                }
+            },
+            {
+                "id": 52,
+                "index": 21,
+                "name": "60%",
+                "type": "textLayer",
+                "x": 623,
+                "y": 1224,
+                "width": 94,
+                "height": 37,
+                "gradientoverlay": {
+                    "gradient": {
+                        "color": [
+                            {
+                                "color": "#28313A",
+                                "opacity": 100
+                            },
+                            {
+                                "color": "#B4B5B7",
+                                "opacity": 100
+                            },
+                            {
+                                "color": "#DDDEE1",
+                                "opacity": 100
+                            }
+                        ],
+                        "type": "linear",
+                        "angel": 90
+                    }
+                },
+                "textInfo": {
+                    "content": "60%",
+                    "orientation": "horizontal",
+                    "bounds": {
+                        "x": 0,
+                        "y": -42.240234375,
+                        "width": 97.4879989624023,
+                        "height": 92.640380859375
+                    },
+                    "fontPostScriptName": "SourceHanSansCNVF-Regular",
+                    "fontName": "Source Han Sans CN VF",
+                    "fontSize": 48,
+                    "bold": false,
+                    "italic": false,
+                    "color": "#FFFFFF"
+                }
+            },
+            {
+                "id": 51,
+                "index": 20,
+                "name": "30%",
+                "type": "textLayer",
+                "x": 363,
+                "y": 1224,
+                "width": 95,
+                "height": 37,
+                "gradientoverlay": {
+                    "gradient": {
+                        "color": [
+                            {
+                                "color": "#28313A",
+                                "opacity": 100
+                            },
+                            {
+                                "color": "#B4B5B7",
+                                "opacity": 100
+                            },
+                            {
+                                "color": "#DDDEE1",
+                                "opacity": 100
+                            }
+                        ],
+                        "type": "linear",
+                        "angel": 90
+                    }
+                },
+                "textInfo": {
+                    "content": "30%",
+                    "orientation": "horizontal",
+                    "bounds": {
+                        "x": 0,
+                        "y": -42.240234375,
+                        "width": 97.4879989624023,
+                        "height": 92.640380859375
+                    },
+                    "fontPostScriptName": "SourceHanSansCNVF-Regular",
+                    "fontName": "Source Han Sans CN VF",
+                    "fontSize": 48,
+                    "bold": false,
+                    "italic": false,
+                    "color": "#FFFFFF"
+                }
+            },
+            {
+                "id": 50,
+                "index": 19,
+                "name": "Mute",
+                "type": "textLayer",
+                "x": 96,
+                "y": 1224,
+                "width": 107,
+                "height": 37,
+                "gradientoverlay": {
+                    "gradient": {
+                        "color": [
+                            {
+                                "color": "#28313A",
+                                "opacity": 100
+                            },
+                            {
+                                "color": "#B4B5B7",
+                                "opacity": 100
+                            },
+                            {
+                                "color": "#DDDEE1",
+                                "opacity": 100
+                            }
+                        ],
+                        "type": "linear",
+                        "angel": 90
+                    }
+                },
+                "textInfo": {
+                    "content": "Mute",
+                    "orientation": "horizontal",
+                    "bounds": {
+                        "x": 0,
+                        "y": -42.240234375,
+                        "width": 112.800003051758,
+                        "height": 92.640380859375
+                    },
+                    "fontPostScriptName": "SourceHanSansCNVF-Regular",
+                    "fontName": "Source Han Sans CN VF",
+                    "fontSize": 48,
+                    "bold": false,
+                    "italic": false,
+                    "color": "#FFFFFF"
+                }
+            },
+            {
+                "id": 47,
+                "index": 17,
+                "name": "矩形1拷贝6",
+                "type": "shapeLayer",
+                "x": 830,
+                "y": 1400,
+                "width": 200,
+                "height": 200,
+                "solidfill": {
+                    "solid": {
+                        "color": "#22262F",
+                        "opacity": 100,
+                        "type": "solidfill"
+                    }
+                },
+                "gradientoverlay": {
+                    "gradient": {
+                        "color": [
+                            {
+                                "color": "#28313A",
+                                "opacity": 100
+                            }
+                        ],
+                        "type": "linear",
+                        "angel": 144
+                    }
+                },
+                "radius": [
+                    40,
+                    40,
+                    40,
+                    40
+                ]
+            },
+            {
+                "id": 46,
+                "index": 16,
+                "name": "矩形1拷贝6",
+                "type": "shapeLayer",
+                "x": 570,
+                "y": 1400,
+                "width": 200,
+                "height": 200,
+                "solidfill": {
+                    "solid": {
+                        "color": "#22262F",
+                        "opacity": 100,
+                        "type": "solidfill"
+                    }
+                },
+                "gradientoverlay": {
+                    "gradient": {
+                        "color": [
+                            {
+                                "color": "#28313A",
+                                "opacity": 100
+                            }
+                        ],
+                        "type": "linear",
+                        "angel": 144
+                    }
+                },
+                "radius": [
+                    40,
+                    40,
+                    40,
+                    40
+                ]
+            },
+            {
+                "id": 45,
+                "index": 15,
+                "name": "矩形1拷贝6",
+                "type": "shapeLayer",
+                "x": 310,
+                "y": 1400,
+                "width": 200,
+                "height": 200,
+                "solidfill": {
+                    "solid": {
+                        "color": "#22262F",
+                        "opacity": 100,
+                        "type": "solidfill"
+                    }
+                },
+                "gradientoverlay": {
+                    "gradient": {
+                        "color": [
+                            {
+                                "color": "#28313A",
+                                "opacity": 100
+                            }
+                        ],
+                        "type": "linear",
+                        "angel": 144
+                    }
+                },
+                "radius": [
+                    40,
+                    40,
+                    40,
+                    40
+                ]
+            },
+            {
+                "id": 44,
+                "index": 14,
+                "name": "矩形1拷贝6",
+                "type": "shapeLayer",
+                "x": 50,
+                "y": 1400,
+                "width": 200,
+                "height": 200,
+                "solidfill": {
+                    "solid": {
+                        "color": "#22262F",
+                        "opacity": 100,
+                        "type": "solidfill"
+                    }
+                },
+                "gradientoverlay": {
+                    "gradient": {
+                        "color": [
+                            {
+                                "color": "#28313A",
+                                "opacity": 100
+                            }
+                        ],
+                        "type": "linear",
+                        "angel": 144
+                    }
+                },
+                "radius": [
+                    40,
+                    40,
+                    40,
+                    40
+                ]
+            },
+            {
+                "id": 43,
+                "index": 13,
+                "name": "矩形1拷贝5",
+                "type": "shapeLayer",
+                "x": 830,
+                "y": 1143,
+                "width": 200,
+                "height": 200,
+                "solidfill": {
+                    "solid": {
+                        "color": "#22262F",
+                        "opacity": 100,
+                        "type": "solidfill"
+                    }
+                },
+                "gradientoverlay": {
+                    "gradient": {
+                        "color": [
+                            {
+                                "color": "#28313A",
+                                "opacity": 100
+                            }
+                        ],
+                        "type": "linear",
+                        "angel": 144
+                    }
+                },
+                "radius": [
+                    40,
+                    40,
+                    40,
+                    40
+                ]
+            },
+            {
+                "id": 42,
+                "index": 12,
+                "name": "矩形1拷贝4",
+                "type": "shapeLayer",
+                "x": 570,
+                "y": 1143,
+                "width": 200,
+                "height": 200,
+                "solidfill": {
+                    "solid": {
+                        "color": "#22262F",
+                        "opacity": 100,
+                        "type": "solidfill"
+                    }
+                },
+                "gradientoverlay": {
+                    "gradient": {
+                        "color": [
+                            {
+                                "color": "#28313A",
+                                "opacity": 100
+                            }
+                        ],
+                        "type": "linear",
+                        "angel": 144
+                    }
+                },
+                "radius": [
+                    40,
+                    40,
+                    40,
+                    40
+                ]
+            },
+            {
+                "id": 41,
+                "index": 11,
+                "name": "矩形1拷贝3",
+                "type": "shapeLayer",
+                "x": 310,
+                "y": 1143,
+                "width": 200,
+                "height": 200,
+                "solidfill": {
+                    "solid": {
+                        "color": "#22262F",
+                        "opacity": 100,
+                        "type": "solidfill"
+                    }
+                },
+                "gradientoverlay": {
+                    "gradient": {
+                        "color": [
+                            {
+                                "color": "#28313A",
+                                "opacity": 100
+                            }
+                        ],
+                        "type": "linear",
+                        "angel": 144
+                    }
+                },
+                "radius": [
+                    40,
+                    40,
+                    40,
+                    40
+                ]
+            },
+            {
+                "id": 33,
+                "index": 10,
+                "name": "矩形1拷贝",
+                "type": "shapeLayer",
+                "x": 50,
+                "y": 1143,
+                "width": 200,
+                "height": 200,
+                "solidfill": {
+                    "solid": {
+                        "color": "#22262F",
+                        "opacity": 100,
+                        "type": "solidfill"
+                    }
+                },
+                "gradientoverlay": {
+                    "gradient": {
+                        "color": [
+                            {
+                                "color": "#28313A",
+                                "opacity": 100
+                            }
+                        ],
+                        "type": "linear",
+                        "angel": 144
+                    }
+                },
+                "radius": [
+                    40,
+                    40,
+                    40,
+                    40
+                ]
+            },
+            {
+                "id": 161,
+                "index": 7,
+                "name": "JustinDrewBieber",
+                "type": "textLayer",
+                "x": 257,
+                "y": 1777,
+                "width": 315,
+                "height": 30,
+                "opacity": 60,
+                "textInfo": {
+                    "content": "Justin Drew Bieber",
+                    "orientation": "horizontal",
+                    "bounds": {
+                        "x": 0,
+                        "y": -31.68017578125,
+                        "width": 316.806549072266,
+                        "height": 69.4802856445312
+                    },
+                    "fontPostScriptName": "SourceHanSansCNVF-Regular",
+                    "fontName": "Source Han Sans CN VF",
+                    "fontSize": 36,
+                    "bold": false,
+                    "italic": false,
+                    "color": "#FFFFFF"
+                }
+            },
+            {
+                "id": 67,
+                "index": 6,
+                "name": "Ghost",
+                "type": "textLayer",
+                "x": 261,
+                "y": 1710,
+                "width": 113,
+                "height": 35,
+                "textInfo": {
+                    "content": "Ghost",
+                    "orientation": "horizontal",
+                    "bounds": {
+                        "x": 0,
+                        "y": -36.960205078125,
+                        "width": 115.374000549316,
+                        "height": 81.0603332519531
+                    },
+                    "fontPostScriptName": "SourceHanSansCNVF-Regular",
+                    "fontName": "Source Han Sans CN VF",
+                    "fontSize": 42,
+                    "bold": false,
+                    "italic": false,
+                    "color": "#FFFFFF"
+                }
+            },
+            {
+                "id": 160,
+                "index": 5,
+                "name": "图层6",
+                "type": "layer",
+                "x": 64,
+                "y": 1678,
+                "width": 169,
+                "height": 169
+            },
+            {
+                "id": 158,
+                "index": 4,
+                "name": "矩形4",
+                "type": "shapeLayer",
+                "x": 75,
+                "y": 1687,
+                "width": 150,
+                "height": 150,
+                "solidfill": {
+                    "solid": {
+                        "color": "#7F8186",
+                        "opacity": 100,
+                        "type": "solidfill"
+                    }
+                },
+                "radius": [
+                    16,
+                    16,
+                    16,
+                    16
+                ]
+            },
+            {
+                "id": 18,
+                "index": 3,
+                "name": "矩形1",
+                "type": "shapeLayer",
+                "x": 50,
+                "y": 1662,
+                "width": 980,
+                "height": 200,
+                "solidfill": {
+                    "solid": {
+                        "color": "#22262F",
+                        "opacity": 100,
+                        "type": "solidfill"
+                    }
+                },
+                "gradientoverlay": {
+                    "gradient": {
+                        "color": [
+                            {
+                                "color": "#28313A",
+                                "opacity": 100
+                            }
+                        ],
+                        "type": "linear",
+                        "angel": 144
+                    }
+                },
+                "radius": [
+                    40,
+                    40,
+                    40,
+                    40
+                ]
+            },
+            {
+                "id": 6,
+                "index": 2,
+                "name": "StatusBar",
+                "type": "layer",
+                "x": 79,
+                "y": 50,
+                "width": 963,
+                "height": 31
+            },
+            {
+                "id": 1,
+                "index": 0,
+                "name": "背景",
+                "type": "backgroundLayer",
+                "x": 0,
+                "y": 0,
+                "width": 1080,
+                "height": 1920
+            }
+        ]
+    }
+]
